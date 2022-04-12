@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/prakashjyoti123/react_food_website.git/static/css/main.424602a1.css",
+    "main.js": "/prakashjyoti123/react_food_website.git/static/js/main.8b660f08.js",
+    "static/media/rajasthani.jpg": "/prakashjyoti123/react_food_website.git/static/media/rajasthani.ae32883353b0f39a3804.jpg",
+    "static/media/logo.png": "/prakashjyoti123/react_food_website.git/static/media/logo.019682feddc6460646b2.png",
+    "static/media/masala.jpg": "/prakashjyoti123/react_food_website.git/static/media/masala.f4dd64f4906d42ddcbdb.jpg",
+    "static/media/photo.jpeg": "/prakashjyoti123/react_food_website.git/static/media/photo.8e975343c2604bb98f7d.jpeg",
+    "static/media/food.jpeg": "/prakashjyoti123/react_food_website.git/static/media/food.05892fe97cce26a5d9e5.jpeg",
+    "static/media/chhola.jpg": "/prakashjyoti123/react_food_website.git/static/media/chhola.a1458ef1370699c23212.jpg",
+    "static/media/paneer.jpg": "/prakashjyoti123/react_food_website.git/static/media/paneer.f04d2c563fe596463e47.jpg",
+    "static/media/idli.jpg": "/prakashjyoti123/react_food_website.git/static/media/idli.dc2d98fda6c7a903c64b.jpg",
+    "static/media/gujrati.jpeg": "/prakashjyoti123/react_food_website.git/static/media/gujrati.77bd2d3baa11e6cf3dcd.jpeg",
+    "static/media/dosa.jpg": "/prakashjyoti123/react_food_website.git/static/media/dosa.5c938f456ea86779ba13.jpg",
+    "index.html": "/prakashjyoti123/react_food_website.git/index.html",
+    "main.424602a1.css.map": "/prakashjyoti123/react_food_website.git/static/css/main.424602a1.css.map",
+    "main.8b660f08.js.map": "/prakashjyoti123/react_food_website.git/static/js/main.8b660f08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.424602a1.css",
+    "static/js/main.8b660f08.js"
+  ]
+}
